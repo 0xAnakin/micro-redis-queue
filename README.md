@@ -1,7 +1,7 @@
 # micro-redis-queue
 Simple micro queue for redis
 
-[![Build Status](https://travis-ci.org/syd619/micro-redis-queue.svg?branch=master)](https://travis-ci.org/syd619/micro-redis-queue)
+[![Build Status](https://travis-ci.org/syd619/micro-redis-queue.svg?branch=main)](https://travis-ci.org/github/syd619/micro-redis-queue)
 [![npm version](https://badge.fury.io/js/micro-redis-queue.svg)](https://badge.fury.io/js/micro-redis-queue)
 [![Known Vulnerabilities](https://snyk.io/test/github/syd619/micro-redis-queue/badge.svg?targetFile=package.json)](https://snyk.io/test/github/syd619/micro-redis-queue?targetFile=package.json)
 

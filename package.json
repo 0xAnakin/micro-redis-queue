@@ -1,6 +1,6 @@
 {
     "name": "micro-redis-queue",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Simple fifo micro queue for redis",
     "author": "Anakin Skywlaker <the.syd.619@gmail.com>",
     "main": "./src/index",
